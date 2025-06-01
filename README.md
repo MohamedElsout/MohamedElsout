@@ -1,27 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,100:302b63&height=200&section=header&text=محمد%20الصوت🚀&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0f0c29,100:302b63&height=200&section=header&text=Mohamed%20Elsout🚀&fontSize=50&fontColor=ffffff" />
 
 <h2 align="center">🪐 Aspiring Back-End Developer | InfoSec Explorer | Code from the Cosmos 👨‍🚀</h2>
 
 ---
 
-### 👋 عني
+### 👋 About Me
 
-أنا محمد الصوت، طالب في كلية حاسبات ومعلومات، شغوف بالبرمجة وباستكشاف أسرار السيكيورتي 🌌.  
-حاليًا ببدأ رحلتي الحقيقية في عالم الـ Back-End باستخدام **Python**،  
-وبتعلم أساسيات البرمجة بقوة من خلال **++C** و **#C**.
-
----
-
-### 🧠 اهتماماتي الحالية
-- 🚀 تطوير الـ Back-End باستخدام Python (Flask / Django)
-- 🛰️ فهم عميق للشبكات والبروتوكولات
-- 👨‍💻 استكشاف أمن المعلومات (InfoSec / Cybersecurity)
-- 💾 الخوارزميات وهياكل البيانات
-- 🔐 بناء تطبيقات آمنة وفعّالة
+I’m Mohamed Elsout, a Computer Science student passionate about programming and exploring the mysteries of security 🌌.  
+Currently starting my real journey into Back-End development using **Python**,  
+while strongly learning the basics of programming through **C++** and **C#**.
 
 ---
 
-### 🛠️ التكنولوجيات اللي بشتغل بيها
+### 🧠 My Current Interests
+- 🚀 Back-End development with Python (Flask / Django)
+- 🛰️ Deep understanding of networks and protocols
+- 👨‍💻 Exploring Information Security (InfoSec / Cybersecurity)
+- 💾 Algorithms and Data Structures
+- 🔐 Building secure and efficient applications
+
+---
+
+### 🛠️ Technologies I Work With
 
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -35,19 +35,19 @@
 
 ---
 
-### 📡 تقدر تتابعني على
+### 📡 Find Me On
 
 <p align="center">
   <a href="https://github.com/elsout"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <!-- لو عندك LinkedIn أو Email ضيفه هنا -->
+  <!-- Add your LinkedIn or Email here if you want -->
 </p>
 
 ---
 
-### 👽 من أقوالي:
+### 👽 My Quote:
 
-> *"الكود مش بس سطور، ده لغة بتربط بينك وبين عالم تاني غير مرئي."*  
-> – محمد الصوت
+> *"Code is not just lines, it's a language that connects you to another unseen world."*  
+> – Mohamed Elsout
 
 ---
 
